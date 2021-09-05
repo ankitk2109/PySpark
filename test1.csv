@@ -1,4 +1,7 @@
-Name,age,experience
-Krish,31,10
-Sudhanshu,30,8
-Sunny,29,4
+Name,age,experience,salary
+Krish,31,10,30000
+Sudhanshu,30,8,25000
+Sunny,29,4,20000
+Ankit,45,3,15000
+Anand,32,2,20000
+Karishma,24,5,18000
